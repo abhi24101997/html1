@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+    background-color: #7FB77E;
+
+}
+button{
+    size: 5rem;
+    font-size: 5rem;
+    background-color: aqua;
+}
+#title{
+    font-size: 5rem;
+}
+footer{
+    text-align:bottom;
+}
